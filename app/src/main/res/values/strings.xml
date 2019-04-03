@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Spinner Demo</string>
+
+    <string name="select">Choose a Meal</string>
+    <string name="select2">Choose an item</string>
+    <string name="button_label">Submit</string>
+
+    <string-array name="meal_array">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+
+    <string-array name="breakfast_array">
+        <item>Omelet</item>
+        <item>Cereal</item>
+        <item>Pancakes</item>
+    </string-array>
+
+    <string-array name="lunch_array">
+        <item>Tacos</item>
+        <item>Ham Sandwich</item>
+        <item>Salad</item>
+    </string-array>
+
+    <string-array name="dinner_array">
+        <item>Steak</item>
+        <item>Spaghetti</item>
+        <item>Chicken</item>
+    </string-array>
+
+</resources>
